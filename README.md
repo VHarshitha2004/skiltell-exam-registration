@@ -41,4 +41,4 @@ A robust and user-friendly web application to manage student exam registrations 
 | Database    | MySQL (via XAMPP)  |
 | Versioning  | Git & GitHub       |
 
--
+
